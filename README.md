@@ -7,9 +7,7 @@ Modern, Automated
  
  within your Packer-made images. 
  
- Packer brings machine images 
- 
- into the modern age, unlocking untapped potential and opening new opportunities.
+ Packer brings machine images into the modern age, unlocking untapped potential and opening new opportunities.
  
     commands 
     packer validate example.json 
